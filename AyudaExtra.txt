@@ -1,0 +1,35 @@
+Herramientas Utilizadas 
+
+Categoria No-Code para la creación del front-end
+WebWeb:
+//Crea paginas web arrastrando elementos, tiene plantillas pero no genera codigo
+
+WebFlow:
+Puedes crear la interfaz grafica arrastrando elementos y te genera automáticamente el código .HTML,.css y .js
+
+Categoria low-Code 
+Caspio:
+Es una herramienta muy fácil de manejar ya que genera código por bloques 
+
+Aplicaciones para generar el código y unir las partes del back end y el front end 
+Visual Studio:
+Se crea el archivo .NET te genera el proyecto con todas sus características 
+Visual Studio Code: 
+Es lo mismo que el anterior pero la versión mas ligera
+//Con la extencion live Server te genera un ordenador local y puedes ver cada cambio en tiempo real 
+NetBeans:
+Aplicación un tanto rara para mi pero en cuanto aprendes a manejarla es fácil solo que tienes que instalarla junto con su jdk para que funcione ya que esta aplicación se ejecuta en java 
+Sublime Text:
+Aplicación muy buena para la creación de la front end ya que te da estructura de HTML y tiene auto completado
+
+Recursos de ayuda:
+Boopstrap:
+Tiene código predeterminado para usar para solo ir cambiando los detalles que no te gusten 
+//Tienes que agregar su linck para usar su código en tu proyecto
+Handlebars:
+Herramienta para generar HTML dinamico 
+
+Videos de Ayuda:
+https://www.youtube.com/watch?v=p1JFNFMc1ps&list=PL-6S8_azQ-MpM0BaKz0VPtnczB6MiOflq&index=2
+https://www.youtube.com/watch?v=vpMknRP9PhU  
+https://www.youtube.com/watch?v=Zv4h-h2lLoc&t=360s
